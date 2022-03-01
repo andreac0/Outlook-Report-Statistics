@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 19 22:26:34 2020
-
-@author: petrovg
-Script origin is in: https://bitbucket.ecb.de/projects/DGM/repos/mos_tms_statistics/browse/mos_tms_statistics/read_history_email.py
-"""
-
 
 import os
 import datetime as dt

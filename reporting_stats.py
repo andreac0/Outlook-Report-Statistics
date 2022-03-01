@@ -10,8 +10,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 from io import BytesIO
 import sys
-# %matplotlib inline
-# matplotlib.style.use('ggplot')
+
 
 year = str(input("Enter year:"))
 # year = '2020'
