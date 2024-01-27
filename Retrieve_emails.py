@@ -7,33 +7,7 @@ import win32com.client as win32
 import io
 import datetime
 
-domainmapping={'banque-france.fr':'France',
-         'bundesbank.de':'Germany',
-         'bancaditalia.it':'Italy',
-         'nbs.sk':'Slovakia',
-         'fktzp32.ecb.de':'ECB',
-         'ecb.europa.eu':'ECB',
-         'ecb.int':'ECB',
-         'tms.ecb.de':'ECB',
-         'atms.ecb.de':'ECB',
-         'centralbank.ie':'Ireland',
-         'centralbankmalta.org':'Malta',
-         'dnb.nl':'Netherlands',
-         'bof.fi':'Finland',
-         'bde.es':'Spain',
-         'nbb.be':'Belgium',
-         'bankofgreece.gr':'Greece',
-         'bportugal.pt':'Portugal',
-         'bank.lv':'Latvia',
-         'X-TR.Webservice.tms.ecb.de':'ECB',
-         'eib.org':'EIB',
-         'fktzp04.zone.unix.ecb.de':'ECB',
-         'p01-app.ecb.de':'ECB',
-         'oenb.at':'Austria',
-         'a01-app.ecb.de':'ECB',
-         'esterni.bancaditalia.it':'Italy',
-         'fktza04.zone.unix.ecb.de':'ECB'      
-        }
+domainmapping={'polimi.it':'Politecnico di Milano'}
 
 
 #If outlook cannot be dispatched it means the script is not running in a local folder
